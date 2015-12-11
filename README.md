@@ -3,7 +3,7 @@ A Java Frontend to random.org that pools numbers and issues out 63 bit longs on 
 
 # Usage
 ```java
-    import com.onlineconvergence.spintowinserver.utilities.TruelyRandomNumberGenerator;
+    import com.onlineconvergence.utilities.TruelyRandomNumberGenerator;
     .
     .
     .

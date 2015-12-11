@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.onlineconvergence.spintowinserver.utilities;
+package com.onlineconvergence.utilities;
 
 import java.io.BufferedReader;
 import java.io.IOException;
